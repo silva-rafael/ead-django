@@ -1,0 +1,30 @@
+projeto:
+	ALUNO:
+	O aluno pode se matricular
+	terá acesso a todos os cursos, em primeiro momento.
+	
+	ADMIN:
+	Pode cadastrar aulas
+	excluir alunos
+	ver notas
+	relatorio completo
+	
+	AULAS:
+	categoria
+	
+
+fazendo:
+	ALUNO:
+
+	
+	ADMIN:
+
+feito:
+	ALUNO:
+
+
+	ADMIN:
+
+
+
+
